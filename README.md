@@ -16,6 +16,7 @@ with LLM workflows and AI-assisted development.
 📫 arisoynuray2@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/nuray-arisoy) · 
    [Portfolio](https://arisoy-portfolio.netlify.app)
+   [with RAG  CV](https://huggingface.co/spaces/arisoynuray/cv-rag-assistant)
 
   
   ---
